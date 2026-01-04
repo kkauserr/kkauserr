@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Heyy 👋 I'm KJ</h1>
 
-<!--
-**kkauserr/kkauserr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Teaching machines to think — while balancing coffee, research, and building things that actually help people ☕🤖</b>
+</p>
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=kkauserr)
+![Jameela's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkauserr&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkauserr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 About Me
+
+🎓 **Bachelor’s in Computer Science (Honors)** @ Arizona State University  
+🚀 **Software Engineer & Product-minded Builder**  
+🧠 Passionate about **AI, accessibility-driven design, and real-world problem solving**  
+🤝 I love building tools that create impact — not just demos
+
+---
+
+### 🛠 Tech I Work With
+
+**Languages:** Java • Python • C/C++ • SQL • JavaScript/TypeScript  
+**Frameworks:** React • Flask • Node.js • TensorFlow • REST APIs  
+**Tools:** Git • Jira • Tableau • SQL Server • Linux • Figma • MATLAB
+
+---
+
+### 📫 Let’s Connect
+
+📧 jkauser@asu.edu  
+🐙 https://github.com/kkauserr  
+💼 (add LinkedIn link if you want — I recommend it 😉)
+
+---
+
+### ✨ Fun Facts
+
+🐈 Coffee + cats = joy  
+🌍 I care deeply about accessibility & representation in tech  
+📚 Currently reading "Algorithms to Live By" ~ Brian Christian, Thomas L. Griffiths, and Tom Griffiths
+ 
+
+---
+
+<p align="center"><i>“Code with intention. Build with empathy.”</i></p>
+
