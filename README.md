@@ -10,10 +10,10 @@
 
 ### 💡 About Me
 
-🎓 **Bachelor’s in Computer Science (Honors)** @ Arizona State University  
-🚀 **Software Engineer & Product-minded Builder**  
-🧠 Passionate about **AI, accessibility-driven design, and real-world problem solving**  
-🤝 I love building tools that create impact — not just demos
+**Bachelor’s in Computer Science (Honors)** @ Arizona State University  
+**Software Engineer & Product-minded Builder**  
+Passionate about **Accessibility-driven design, and real-world problem solving**  
+  I love building tools that create impact — not just demos
 
 ---
 
