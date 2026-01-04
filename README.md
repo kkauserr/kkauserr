@@ -5,8 +5,6 @@
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kkauserr)
-![Jameela's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkauserr&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkauserr)
 
 ---
 
@@ -31,7 +29,7 @@
 
 📧 jkauser@asu.edu  
 🐙 https://github.com/kkauserr  
-💼 (add LinkedIn link if you want — I recommend it 😉)
+💼 https://www.linkedin.com/in/jameela-kauser/
 
 ---
 
