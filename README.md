@@ -30,6 +30,7 @@ Passionate about **Accessibility-driven design, and real-world problem solving**
 📧 jkauser@asu.edu  
 🐙 https://github.com/kkauserr  
 💼 https://www.linkedin.com/in/jameela-kauser/
+🌍 https://portfolio.jkauser.workers.dev/
 
 ---
 
